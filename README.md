@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hey,
+i'm a weber. this is just another repository.
